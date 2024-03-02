@@ -7,7 +7,7 @@ Sample:
 ```
 import pytimer
 
-pytimer()
+@pytimer
 def multiple_by_2(x):
     print(2*x)
 ```
