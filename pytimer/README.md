@@ -5,7 +5,7 @@
 Installation:
 
 ```
-pip install pytimer
+pip install pypytimer
 
 ```
 
@@ -13,9 +13,9 @@ Sample:
 
 ```
 
-import pytimer
+import pypytimer
 
-@pytimer
+@pypytimer
 def multiple_by_2(x):
 print(2\*x)
 
