@@ -9,7 +9,7 @@ pip install pypytimer
 
 ```
 
-Sample:
+Sample usage:
 
 ```
 
